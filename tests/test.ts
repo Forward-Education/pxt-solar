@@ -1,4 +1,4 @@
-// The "ADD SIMULATORS" button doesn't work for this one.
+// The "ADD SIMULATORS" button doesn't work for this one. testing
 // Need to manually add DC current/voltage measurement
 
 // sensor tests (voltage, current)
